@@ -1,0 +1,52 @@
+1. Receba um valor inteiro e verifique se o valor é par ou ímpar. A função deve
+retornar 1, para par, e 0, para ímpar.
+
+2. Exiba os números de 0 a 50 na tela.
+
+3. Receba um caractere como parâmetro e verifique se tal caractere é uma
+vogal. A função deve retornar 1, para vogal, e 0, para outro caractere.
+
+4. Receba três valores inteiros e retorne o menor deles.
+
+5. Receba um valor inteiro e positivo e retorne o valor 1, caso o número seja um
+número primo, ou 0, caso contrário.
+
+6. Receba os coeficientes (a, b e c) de uma função de segundo grau e retorne as
+suas raízes da equação (passadas como passagem de parâmetro por
+referência), caso seja possível calcular.
+
+7. Receba o capital, os juros e os meses de um empréstimo, calcule e retorne o
+montante final do empréstimo realizado. M=Capital (1+Juros)Meses
+
+8. Receba um valor X numérico, calcule e retorne o valor de f(x), sendo
+f(x) = 8 / (2 - x).
+
+9. Receba o peso e a altura e retorne o IMC (índice de Massa Corporal) de uma
+pessoa. A fórmula é: IMC = peso/altura2
+
+10. Receba dois números inteiros positivos M e N e retorne a soma dos números
+pares entre estes números.
+
+11. Receba 3 notas de um aluno e uma letra. Se a letra for ‘A’ a função deve
+retornar a média aritmética das notas do aluno. Se for ‘P’, deve retornar a sua
+média ponderada (pesos: 5, 3 e 2).
+
+12. Receba um valor inteiro e verifique se o valor é positivo, negativo ou zero. A
+função deve retornar 1 para valores positivos, -1 para negativos e 0 para o
+valor 0.
+
+13. Receba um valor inteiro positivo e retorne quantos divisores inteiros positivos
+esse número possui (com exceção do próprio número).
+
+14. Receba um número inteiro e verifique se é um valor perfeito ou não. Um valor
+é dito perfeito quando ele é igual a soma dos seus divisores excetuando o
+próprio valor. (Ex: 6 é perfeito, 6 = 1 + 2 + 3, que são seus divisores).
+
+15. Receba a média final de um aluno por parâmetro e retorne o seu conceito,
+conforme a tabela a seguir:
+
+Nota Conceito
+de 0,0 a 4,9 D
+de 5,0 a 6,9 C
+de 7,0 a 8,9 B
+de 9,0 a 10,0 A

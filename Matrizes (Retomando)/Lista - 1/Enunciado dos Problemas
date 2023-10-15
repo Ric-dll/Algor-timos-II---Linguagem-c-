@@ -1,0 +1,18 @@
+1. Leia uma matriz de 5 strings. Posteriormente exiba as 5 strings informadas.
+
+2. Leia uma matriz de 5 strings. Posteriormente leia outra string. O programa deverá exibir uma mensagem
+indicando quantas vezes a string lida aparece na matriz.
+
+3. Leia uma matriz de 5 strings. Posteriormente leia um caractere. O programa deverá exibir uma mensagem
+indicando quantas vezes o caractere lido aparece na matriz de strings como um todo.
+
+4. Leia uma matriz de 5 strings. Posteriormente leia um caractere. O programa deverá exibir uma mensagem
+indicando quantas vezes o caractere lido aparece individualmente em cada uma das 5 strings da matriz.
+
+5. Leia uma matriz de 5 strings. Posteriormente exiba quantas vogais a matriz de strings possui como um todo.
+
+6. Leia uma matriz de 5 strings. Posteriormente exiba a porcentagem de vogais em cada string em relação aos
+demais caracteres.
+
+7. Leia uma matriz de 5 strings. Posteriormente exiba qual string da matriz (0, 1, 2, 3 ou 4) possui o maior número
+de vogais.

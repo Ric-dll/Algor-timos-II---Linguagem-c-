@@ -1,0 +1,69 @@
+1. Receba um vetor[10] de inteiros e retorne o menor elemento do vetor.
+
+2. Receba um vetor de inteiros e retorne quantos números primos o vevtor
+possui.
+
+3. Receba um vetor de inteiros e retorne 1 caso tenham algum número perfeito
+no vetor ou retorne 0 caso contrário. Lembrando que um "número perfeito" é
+um número cuja soma de seus divisores (excluindo ele mesmo) é igual ao
+próprio número. Exemplo: número 6, pois a soma de seus divisores 3+2+1 ==6.
+
+4. Receba uma matriz Amxm e altere todos os elementos da sua diagonal
+principal para 1.
+
+5. Receba uma matriz Amxm e retorne a soma dos elementos da sua diagonal
+principal e da sua diagonal secundária.
+
+6. Receba um vetor de inteiros e um número. Retorne quantas vezes o número
+aparece no vetor.
+
+7. Receba uma string e a retorne escrita de trás pra frente.
+
+8. Receba uma matriz Amxm e retorne a linha e a coluna (por referência) do
+maior elemento da matriz.
+
+9. Receba um caractere e uma string e retorne quantas vezes o caractere
+aparece na string.
+
+10. Receba um caractere, uma string e retorne a string eliminando da mesma o
+caractere recebido.
+
+11. Receba dois caracteres (c1 e c2) e uma string. A função deverá substituir
+todas as ocorrências de c1 na string por c2.
+
+12. Receba uma string e retorne (1-sim; 0-não) se a mesma possui a sequência:  X Y Z Y X Z ...
+Exemplos: ’”X“, “XY”, “XYZ”, “XYZX”...
+
+13. Receba uma string contendo 5 dígitos de números inteiros e um caractere. A
+função deve retirar da string recebida todas as ocorrências do caractere. Em
+seguida, eliminar todos os zeros a esquerda do valor lido. Exemplo: se o
+usuário digitar ‘2’ “00025” o programa deverá exibir apenas o valor 5.
+
+14. Receba uma string e retorne se a mesma é palíndromo.
+
+15. Receba uma matriz real Amxm e retorne quantas colunas nulas existem em A.
+
+16. Receba uma matriz real Amxm e retorne se a mesma possui elementos
+repetidos (1-sim; 0-não).
+
+17. Receba uma matriz Amxm e dois índices de colunas (col1 e col2). A função
+deverá trocar os valores das colunas designadas pelos índices.
+
+18. Receba uma string e retorne quantos por cento da string recebida é formada
+por vogais. Exemplo: a string “bola” é 50% composta por vogais.
+
+19. Receba uma matriz de 5 strings e retorne qual string da matriz (0, 1, 2, 3 ou 4)
+possui o maior número de vogais.
+
+20. Receba uma matriz de 5 strings e uma string. Retorne 1 se a string estiver
+presente na matriz, ou 0, caso contrário.
+
+21. Receba três vetores de inteiros, sendo dois vetores (vet1 e vet2) de 10
+elementos já preenchidos e gere um terceiro vetor (vet3) com os elementos
+dos vetores 1 e 2 intercalados. A primeira posição do vetor 3 deve ter o
+primeiro elemento do vetor 1, a segunda posição do vetor 3 deve ter o primeiro
+elemento do vetor 2, a terceira posição do vetor 3 deve ter o segundo
+elemento do vetor1, e assim sucessivamente.
+
+22. Receba um vetor de inteiros com 10 números e uma letra. Se a letra for ‘C’,
+ordene o vetor em ordem crescente. Se a letra for ‘D’, em ordem decrescente.

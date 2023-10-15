@@ -1,0 +1,27 @@
+1. Faça um programa que realize o cadastro e exibição de imóveis (utilizando vetores de registros)
+contendo os seguintes campos:
+
+struct Imovel
+
+	int cod
+	char tipo[50]
+	char endereco[50]
+	float valor
+	char situacao[50]
+
+
+
+2. O programa deverá também disponibilizar funcionalidade para:
+
+a. consulta com o campo tipo informado pelo usuário;
+
+b. consulta com o campo situação informado pelo usuário;
+
+c. exibir o valor total da soma de todos os imóveis com situação “venda”;
+
+d. exibir o valor total da soma de todos os imóveis com situação “aluguel”;
+
+e. exibir o valor do imóvel mais caro disponível para “venda”;
+
+f. excluir um imóvel do vetor de structs. O usuário deve informar o código do imóvel a
+ser excluído.
