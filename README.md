@@ -1,2 +1,2 @@
-# Algor-timos-II---Linguagem-c-
+# Algorítimos-II---Linguagem-C-
 Continuação do aprendizado da linguagem 'C', agora aprofundando em métodos e conceitos...
