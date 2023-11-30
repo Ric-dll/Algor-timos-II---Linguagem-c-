@@ -1,0 +1,31 @@
+---------- [ Programa 01 : Arquivo texto ] ----------
+
+Programa que leia um arquivo texto, crie e exiba um
+vetor de structs com base no conteúdo do arquivo texto.
+
+Considere que cada linha do arquivo texto seja uma 
+struct. Os campos são separados por ; (ponto e vírgula).
+
+Struct Carro{
+	int ano;
+	char descricao[100];
+	float preco;
+}
+
+
+
+------- [ Programa 02: Crud, Arquivo binário ] -------
+
+Programa para gerenciamento de projetos de pesquisa
+e orientadores. 
+
+O programa deverá:
+
+• realizar o CRUD de projetos de pesquisa 
+	(área, título, palavras-chave)
+
+• realizar a vinculação de um projeto a um avaliador
+
+• disponibilizar opção para exibir os projetos e seus 
+   respectivos avaliadores
+

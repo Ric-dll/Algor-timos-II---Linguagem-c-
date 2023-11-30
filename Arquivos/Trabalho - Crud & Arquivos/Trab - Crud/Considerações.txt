@@ -1,0 +1,48 @@
+//	--------------- CONSIDERAÇÕES --------------- //
+
+Desenvolvido em sistema linux, para melhor funcionamento em windows, alterar as funções
+
+system("clear");	para	system("cls");
+system("read -p 'Pressione Enter para continuar...'"); 	para	system("pause");
+
+Além de  criar uma variável local "i", fora do laço para versões mais antigas de compilador
+
+
+/*
+ * É um acrônimo que representa quatro operações básicas realizadas em sistemas que
+ * envolvem o gerenciamento de dados em um banco de dados ou sistema de informação
+
+ * C = Create	-->	(Criar)
+ * R = Read		-->	(Ler)
+ * U = Update	-->	(Atualizar)
+ * D = Delete	-->	(Excluir)
+ */
+
+
+/* Comando fwrite
+		 * [ & ] : Passa o endereço de memória da variável projPesq,
+		 * [ sizeof() ]: Retorna o tamanho, em bytes, da estrutura ,
+		 * [ 1 ] : Indica quantos registros devem ser escritos no arquivo,
+		 * [ arquivoBin ] : É o ponteiro para o arquivo binário no qual os dados serão escritos
+*/
+
+
+/* Comando fread
+		 * [ & ] : Passa o endereço de memória da variável projPesq,
+		 * [ sizeof() ]: Retorna o tamanho, em bytes, da estrutura ,
+		 * [ 1 ] : Indica quantos registros devem ser lidos no arquivo,
+		 * [ arquivoBin ] : É o ponteiro para o arquivo binário no qual os dados serão lidos
+*/
+
+
+/* Comando fseek
+		 * [ &arquivoBin ] : O ponteiro para o arquivo que está sendo manipulado.,
+		 * [ sizeof() ]: Retorna o tamanho, em bytes, da estrutura ,
+		 * [ i ] : Representa o número do registro que queremos acessar,
+		 * [ SEEK_SET ] : Define que o movimento deve ser a partir do início do arquivo
+
+		Exemplo: Suponha que cada registro no arquivo tenha 100 bytes. Se 'i' for 3,
+		então sizeof(struct _ProjetoDePesquisa) * cont seria 300, indicando que
+		queremos mover o ponteiro para 300 bytes a partir do início do arquivo,
+		o que seria o início do terceiro registro.
+*/
